@@ -1,4 +1,4 @@
-# COVID-19 Project Information
+# COVID-19 Project
 
 Data used in this project were cloned in RStudio from the ["COVIDProject" GitHub repository](https://github.com/annyrodriguez/COVIDProject), which contains COVID-19 metrics for all regions, states, core-based statistical areas, and counties in the United States from December 17th, 2020 to July 7th, 2022. The data were downloaded from the [Center for Disease Control and Prevention's open data repository](https://healthdata.gov/Health/COVID-19-Community-Profile-Report/gqxm-d9w9/about_data) and cleaned by a team of researchers at Florida International University.
 
